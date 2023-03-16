@@ -1,0 +1,14 @@
+.pics {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-items: center;
+}
+
+.pic-basic {
+  width: 40%;
+  height: 300px;
+  border-radius: 5px;
+}
+.expandimg {
+  width: 90%;
+}
